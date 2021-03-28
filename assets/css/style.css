@@ -1,0 +1,35 @@
+.profile-pic{
+    margin-right: 10px;
+    float: left;
+    border-radius: 10px;
+}
+/* .text-Position{
+    margin: 10px 0;
+    padding: 0 10px;
+} */
+.colored-btns{
+    color:black;
+    size: 10rem;
+
+}
+.carousel-caption{
+    background:#797676db;
+    border-radius: 20px;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+.hFont{
+font-size: 1.15rem;
+}
+.pFont{
+    font-size: 1.15rem;
+
+}
+
+.section-borders{
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    margin: 2rem 0;
+    text-align: center;
+
+}
