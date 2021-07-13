@@ -33,3 +33,8 @@ font-size: 1.15rem;
     text-align: center;
 
 }
+
+.worksList {
+    display: flex;
+    justify-content: center;
+}
